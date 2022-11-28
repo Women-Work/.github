@@ -2,31 +2,8 @@
    <img alt="WomenWork" src=".github/assets/ww-logo.png" width="40%"/>
 </div>
 <br/>
-<div align="center">
-   <img alt="GitHub Repo Size" src="https://img.shields.io/github/repo-size/Women-Work/womenwork">
-   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Women-Work/womenwork">
-   <a href="https://github.com/Women-Work/womenwork/commits/main">
-      <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Women-Work/womenwork">
-   </a>
-   <a href="https://github.com/Women-Work/womenwork/issues">
-      <img alt="GitHub Issues" src="https://img.shields.io/github/issues/Women-Work/womenwork">
-   </a>
-   <a href="https://github.com/Women-Work/womenwork/pulls">
-      <img alt="Pull Requests Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
-   </a>
-</div>
 
 </br>
-<div align="center">
-
-[**Sobre**](#-sobre) &nbsp;&nbsp;**|**&nbsp;&nbsp;
-[**Features**](#-features) &nbsp;&nbsp;**|**&nbsp;&nbsp;
-[**Tecnologias e ferramentas utilizadas**](#-tecnologias-e-ferramentas-utilizadas) &nbsp;&nbsp;**|**&nbsp;&nbsp;
-[**Layout**](#-layout) &nbsp;&nbsp;**|**&nbsp;&nbsp;
-[**Instalação e execução**](#-instalação-e-execução) &nbsp;&nbsp;**|**&nbsp;&nbsp;
-[**Colaboradores**](#-colaboradores) &nbsp;&nbsp;**|**&nbsp;&nbsp;
-
-</div>
 
 ## 📃 Sobre
 
@@ -35,24 +12,6 @@
 **WomenWork** é um projeto desenvolvido durante o Bootcamp JavaScript FullStack da Generation Brasil. 
 
 O projeto, um e-commerce pautado na [ODS 5 da ONU](https://brasil.un.org/pt-br/sdgs/5), voltado a oferecer cursos de tecnologia com preços acessíveis para mulheres em situação de vulnerabilidade social.
-
-## ✨ Features
-
-### Back-end
-
-- [x] Criação de usuários, produtos e categorias
-- [x] Consulta de usuários, produtos e categorias
-- [x] Atualização de usuários, produtos e categorias
-- [x] Remoção de produtos e categorias
-
-<!--<img src=".github/assets/ERD.svg" alt="Diagrama ERD" height="800px"/>-->
-
-### Front-end
-- [ ] Criação de conta (usuário)
-- [ ] Exibição de produtos
-- [ ] Compra de produtos
-
-
 
 ## 🚀 Tecnologias e ferramentas utilizadas
 
@@ -80,49 +39,6 @@ O projeto, um e-commerce pautado na [ODS 5 da ONU](https://brasil.un.org/pt-br/s
     </tr>
   </tbody>
 </table>
-
-## 📟 Layout
-
-🚧 Em desenvolvimento 🚧
-<!--O layout das telas da aplicação **WomenWork** foi desenvolvido pela nossa equipe através da ferramenta [**Figma**](https://www.figma.com).
-Você pode acessar o layout através deste link: [**WomenWork**](https://www.figma.com/).-->
-
-## 🔧 Instalação e execução
-
-🚧 Em desenvolvimento 🚧
-<!--Para baixar o código-fonte do projeto em sua máquina, primeiramente terá que ter instalado o [**Git**](https://git-scm.com/).
-
-Com o Git instalado, em seu terminal execute o seguinte comando:
-
-```bash
-git clone https://github.com/Women-Work/womenwork
-```
-
-Para instalar as dependências e executar o projeto terá que ter instalado em sua máquina o [**Node.js**](https://nodejs.org/en/), que vem acompanhado do NPM, e o [Yarn](https://yarnpkg.com/). Com ele instalado:
-
-Navegue para as subpastas separadas para cada projeto (web/server/mobile) e rode o comando a seguir:
-
-```bash
-npm install
-```
-
-Executar o projeto web:
-
-```bash
-npm run dev
-
-```
-
-Executar o servidor node:
-
-```bash
-npm run dev
-
-```
-
-```
--->
-
 
 ## 🤝 Colaboradores
 

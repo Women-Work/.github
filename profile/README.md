@@ -1,5 +1,5 @@
 <div align="center">
-   <img alt="WomenWork" src=".github/assets/ww-logo.png"/>
+   <img alt="WomenWork" src=".github/assets/ww-logo.png" width="40%"/>
 </div>
 <br/>
 

@@ -55,7 +55,7 @@ A equipe **WomenWork** é composta pelas seguintes pessoas:
 
 <a href="#">
 
-<img src="https://media-exp1.licdn.com/dms/image/D4D03AQFATLx-6dBh3g/profile-displayphoto-shrink_800_800/0/1669152123927?e=1675296000&v=beta&t=g9lpRZ__JAqSGgzQrc7ulj6u1U83rywHS4Yot-DFUX0" width="100px;" alt="Foto da Rafaele Souza no LinkedIn"/><br>
+<img src="https://womenworkaws.s3.amazonaws.com/team/1669152123927.jpg" style="border-radius: 50%" width="100px;" alt="Foto da Rafaele Souza no LinkedIn"/><br>
 
 <sub>
 
@@ -73,11 +73,11 @@ A equipe **WomenWork** é composta pelas seguintes pessoas:
 
 <a href="#">
 
-<img src="https://media-exp1.licdn.com/dms/image/C4D03AQGLG6IUxs14hg/profile-displayphoto-shrink_800_800/0/1652114561045?e=1675296000&v=beta&t=PNDoO2EHXr5moc69hSt_vJXbdwWus3ZfNWrq2ypSnLk" width="100px;" alt="Foto do João Vitor Estevam no LinkedIn"/><br>
+<img src="https://womenworkaws.s3.amazonaws.com/team/1652114561045.jpeg" style="border-radius: 50%" width="100px;" alt="Foto do João Vitor Estevam no LinkedIn"/><br>
 
 <sub>
 
-<b>João Vitor Estevam</b>
+<b>João V. Estevam</b>
 
 </sub>
 
@@ -90,7 +90,7 @@ A equipe **WomenWork** é composta pelas seguintes pessoas:
 
 <a href="#">
 
-<img src="https://media-exp1.licdn.com/dms/image/D4D03AQGovXgFI9Q_-Q/profile-displayphoto-shrink_800_800/0/1663330916197?e=1675296000&v=beta&t=UaL9UsS6DUZQ2hbTLQCGAvYcZQzf4jKOLECnnrM3Gqw" width="100px;" alt="Foto do Henrique Oliveira no LinkedIn"/><br>
+<img src="https://womenworkaws.s3.amazonaws.com/team/1663330916197.jpg" style="border-radius: 50%" width="100px;" alt="Foto do Henrique Oliveira no LinkedIn"/><br>
 
 <sub>
 
@@ -107,7 +107,7 @@ A equipe **WomenWork** é composta pelas seguintes pessoas:
 
 <a href="#">
 
-<img src="https://media-exp1.licdn.com/dms/image/C5603AQE2MKct0wgzYQ/profile-displayphoto-shrink_800_800/0/1648154893734?e=1675296000&v=beta&t=8sSJ57kbtIgw-N2Jl592S4zj1KVGyyG38tegnUS1Jvk" width="100px;" alt="Foto do Júlio Cesar no LinkedIn"/><br>
+<img src="https://womenworkaws.s3.amazonaws.com/team/1648154893734.jpg" style="border-radius: 50%" width="100px;" alt="Foto do Júlio Cesar no LinkedIn"/><br>
 
 <sub>
 
@@ -124,7 +124,7 @@ A equipe **WomenWork** é composta pelas seguintes pessoas:
 
 <a href="#">
 
-<img src="https://media-exp1.licdn.com/dms/image/D4E03AQHmOnUuuPbrVA/profile-displayphoto-shrink_800_800/0/1664813200738?e=1675296000&v=beta&t=KsYqmFLOznRtvcw5cNxkDF7i25hP3Xs0OuHg21meoj4" width="100px;" alt="Foto do Victor França no LinkedIn"/><br>
+<img src="https://womenworkaws.s3.amazonaws.com/team/1675196750994.jpg" style="border-radius: 50%" width="100px;" alt="Foto do Victor França no LinkedIn"/><br>
 
 <sub>
 
@@ -141,7 +141,7 @@ A equipe **WomenWork** é composta pelas seguintes pessoas:
 
 <a href="#">
 
-<img src="https://media-exp1.licdn.com/dms/image/C4D03AQF2znypybPwKQ/profile-displayphoto-shrink_800_800/0/1660923014407?e=1675296000&v=beta&t=2WuhtpnJlHX32aKtQ75lm8ju3O5sUnVv3d_pjut08GA" width="100px;" alt="Foto do Carlos Eduardo no LinkedIn"/><br>
+<img src="https://womenworkaws.s3.amazonaws.com/team/1660923014407.jpg" style="border-radius: 50%" width="100px;" alt="Foto do Carlos Eduardo no LinkedIn"/><br>
 
 <sub>
 
